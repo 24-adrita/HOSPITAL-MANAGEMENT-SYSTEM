@@ -1,60 +1,56 @@
 # Hospital Management System (HMS) – PAF Healthcare Hospital
 
-This is a **C-based console application** crafted for **PAF Healthcare Hospital** to help staff **organize and manage hospital operations smoothly**. From keeping track of patients and doctors to managing billing, pharmacy, and appointments, this system provides a **simple menu-driven solution** for daily hospital management tasks.  
+Welcome to the **Hospital Management System (HMS)** – a **console-based C application** designed to make **hospital operations seamless** at **PAF Healthcare Hospital**. Manage **patients, doctors, staff, appointments, billing, and pharmacy** all from a simple, easy-to-use menu interface!  
 
----
 
-## 🌟 Main Modules
 
-### 👨‍⚕️ Patient Records
-Keep patient information up-to-date and easily accessible:  
-- Add new patients (both Inpatients and Outpatients)  
-- View all patient records at a glance  
-- Edit or correct patient details  
-- Remove records when necessary  
+##  Key Features
 
-### 🚨 Emergency Handling
-Respond to urgent situations efficiently:  
-- Register emergency patients quickly  
-- Arrange ambulance services on demand  
-- Schedule emergency consultations  
+###  **Patient Management**
+Efficiently handle patient records:  
+- Add new patients (Inpatient / Outpatient)  
+-  View all patient details  
+-  Update patient information  
+-  Delete patient records  
 
-### 🩺 Doctor Information
-Manage doctor profiles effortlessly:  
-- Register new doctors  
-- Browse the list of doctors  
-- Update doctor data whenever needed  
+###  **Emergency Services**
+Handle urgent cases in no time:  
+-  Add and display emergency patients  
+-  Request ambulance services instantly  
+-  Schedule emergency appointments  
 
-### 📅 Appointments
-Plan hospital visits without hassle:  
-- Book appointments for patients  
-- Check the full schedule of upcoming appointments  
+###  **Doctor Management**
+Keep your doctors’ info organized:  
+-  Add new doctors  
+-  View doctor list  
+-  Update doctor information  
 
-### 💵 Billing
-Track hospital charges accurately:  
-- Create patient bills with itemized details  
-- Review all payments and transaction history  
+###  **Appointment Scheduling**
+-  Schedule appointments easily  
+-  View all scheduled appointments  
 
-### 👥 Staff Management
-Organize hospital personnel:  
-- Add new staff members  
-- Access staff profiles and information  
+###  **Billing Management**
+-  Generate detailed patient bills  
+-  View and track all payments  
 
-### 💊 Pharmacy Management
-Manage medicines effectively:  
-- Add, modify, or remove medicine entries  
-- Check quantity, price, and expiry dates  
-- Calculate total costs automatically  
+###  **Staff Management**
+-  Add hospital staff members  
+-  View staff details  
 
----
+###  **Pharmacy Management**
+-  Add, update, and delete medicines  
+-  View medicine details: quantity, price, and expiration  
+-  Automatic calculation of total cost  
 
-## 🚀 Why Use This System?
+
+
+##  Why Use This System?
 - Simple, intuitive **menu interface** for smooth navigation  
 - Fast access to all **patient, staff, and billing records**  
-- Tailored specifically for **PAF Healthcare Hospital operations**  
-- Excellent practice project for **students learning C programming**  
+- Designed specifically for **PAF Healthcare Hospital**  
 
----
+
+
 
 
 

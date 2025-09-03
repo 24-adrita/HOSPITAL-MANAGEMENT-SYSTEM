@@ -6,43 +6,44 @@ Welcome to the **Hospital Management System (HMS)** – a **console-based C appl
 
 ##  Key Features
 
-###  **Patient Management**
+###  **1. Patient Management**
 Efficiently handle patient records:  
 - Add new patients (Inpatient / Outpatient)  
 -  View all patient details  
 -  Update patient information  
 -  Delete patient records  
 
-###  **Emergency Services**
+###  **2. Emergency Services**
 Handle urgent cases in no time:  
 -  Add and display emergency patients  
 -  Request ambulance services instantly  
 -  Schedule emergency appointments  
 
-###  **Doctor Management**
+###  **3. Doctor Management**
 Keep your doctors’ info organized:  
 -  Add new doctors  
 -  View doctor list  
 -  Update doctor information  
 
-###  **Appointment Scheduling**
+###  **4. Appointment Scheduling**
 -  Schedule appointments easily  
 -  View all scheduled appointments  
 
-###  **Billing Management**
+###  **5. Billing Management**
 -  Generate detailed patient bills  
 -  View and track all payments  
 
-###  **Staff Management**
+###  **6. Staff Management**
 -  Add hospital staff members  
 -  View staff details  
 
-###  **Pharmacy Management**
+###  **7. Pharmacy Management**
 -  Add, update, and delete medicines  
 -  View medicine details: quantity, price, and expiration  
 -  Automatic calculation of total cost  
 
-
+###  **8. Exit**
+- Exit the system safely at any time  
 
 ##  Why Use This System?
 - Simple, intuitive **menu interface** for smooth navigation  

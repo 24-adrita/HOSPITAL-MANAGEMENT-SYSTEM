@@ -1,6 +1,21 @@
 # Hospital Management System (HMS) – PAF Healthcare Hospital
+The **Hospital Management System (HMS)** is a **C-based console application** built for  
+**PAF Healthcare Hospital**. It allows staff to manage everyday hospital tasks such as  
+**patients, doctors, appointments, billing, staff, pharmacy, and emergencies**.  
 
-Welcome to the **Hospital Management System (HMS)** – a **console-based C application** designed to make **hospital operations seamless** at **PAF Healthcare Hospital**. Manage **patients, doctors, staff, appointments, billing, and pharmacy** all from a simple, easy-to-use menu interface!  
+The system starts with a **login authentication**, ensuring only authorized users can access hospital records.
+
+
+
+## **Login Authentication**
+- Secure login system before accessing the main menu  
+- Username and password are predefined in the code  
+- Prevents unauthorized access to hospital data  
+
+**Default Credentials**  
+
+Username: admin  
+Password: password123  
 
 
 

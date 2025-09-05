@@ -14,8 +14,8 @@ The system starts with a **login authentication**, ensuring only authorized user
 
 **Default Credentials**  
 
-Username: admin  
-Password: password123  
+- Username: admin  
+- Password: password123  
 
 
 
